@@ -1,4 +1,4 @@
-# MPI Operator DeepSpeed Base Configuration for CIFAR-10
+# MPI Operator DeepSpeed Base Conf for CIFAR-10
 
 This example introduces an integration example of DeepSpeed, a distributed training library, with Kubeflow to the main mpi-operator examples. The objective of this example is to enhance the efficiency and performance of distributed training jobs by harnessing the combined capabilities of DeepSpeed and MPI. 
 
